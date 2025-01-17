@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Your Name
-subtitle: Computer Vision Researcher
+title: Sereyvattanak Suon
+subtitle: 
 ---
 
 ## About Me
